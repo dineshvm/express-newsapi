@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Vicky McKeever",
+            "title": "Treasury yields fall after Mnuchin pulls plug on Fed lending power - CNBC",
+            "description": "U.S. Treasury yields declined on Friday after Treasury Secretary Steven Mnuchin decided to let several of the Fed's emergency funding programs expire.",
+            "url": "https://www.cnbc.com/2020/11/20/us-bonds-treasury-yields-move-as-mnuchin-pulls-fed-lending.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106715895-16009580842020-09-22t152608z_284964580_rc2r3j9d3lw8_rtrmadp_0_health-coronavirus-usa-fed.jpeg?v=1600958115",
+            "publishedAt": "2020-11-20T08:57:00Z",
+            "content": "U.S. Treasury yields declined on Friday after U.S. Treasury Secretary Steven Mnuchin decided to let several of the Federal Reserve's emergency funding programs expire on Dec. 31.\r\nThe yield on the be… [+1033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Marc Berman",
+            "title": "These three NBA free agents could be on Knicks' radar - New York Post ",
+            "description": "As NBA free agency opens, here are three names to keep an eye on for the Knicks: Gordon Hayward He was on pace to be a perennial All-Star before he shattered his leg in his Celtics debut in 2017. H…",
+            "url": "https://nypost.com/2020/11/20/these-three-nba-free-agents-could-be-on-knicks-radar/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2020/11/Augustin.Hayward.Anthony.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2020-11-20T08:23:00Z",
+            "content": "As NBA free agency opens, here are three names to keep an eye on for the Knicks:\r\nGordon Hayward\r\nHe was on pace to be a perennial All-Star before he shattered his leg in his Celtics debut in 2017. H… [+976 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Seahawks find balance on offense, shut down wunderkind Murray in victory over Cardinals - NFL.com",
+            "description": "Recently acquired Carlos Dunlap made a key fourth-down stop to help Seattle avoid a three-game losing streak. NFL Network's Jim Trotter reflects on the Seahawks' big victory over the Cardinals.",
+            "url": "https://www.nfl.com/news/seahawks-find-balance-on-offense-shut-down-wunderkind-murray-in-victory-over-car",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/foaa5amlpatuezsvvtfc",
+            "publishedAt": "2020-11-20T07:41:00Z",
+            "content": "As is the case with most every team, title chases are largely dependent on quarterback play. Through five weeks, no one was playing better than Wilson, who was widely viewed as the frontrunner for hi… [+3291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jaclyn Diaz",
+            "title": "Top House Democrats Demand Biden Transition Briefing From GSA Chief - NPR",
+            "description": "Democrats want answers from General Services Administration Emily Murphy as to why she has delayed ascertaining President-elect Joe Biden's election win.",
+            "url": "https://www.npr.org/2020/11/20/936929823/top-house-democrats-demand-biden-transition-briefing-from-gsa-chief",
+            "urlToImage": "https://media.npr.org/assets/img/2020/11/20/ap_20322087577788_wide-5b1c160b604b137de15e22c341206a0a77bc5f41.jpg?s=1400",
+            "publishedAt": "2020-11-20T06:50:42Z",
+            "content": "House lawmakers called on General Services Administration Administrator Emily Murphy to provide a briefing to Congress on her delays in ascertaining Joe Biden's election win.\r\nSusan Walsh/AP\r\nTop Hou… [+3954 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Man who kidnapped, raped, buried Texas teen alive is executed - NBC News",
+            "description": "Orlando Hall, convicted of kidnapping and raping a 16-year-old Texas girl before dousing her with gasoline and burying her alive, was executed Thursday.",
+            "url": "https://www.nbcnews.com/news/us-news/man-who-kidnapped-raped-buried-texas-teen-alive-executed-n1248333",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_39/3414178/federal_executions_35934-jpg-db9cb_9705e389da9417abe2fe8be348fb96e2.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-11-20T06:40:00Z",
+            "content": "TERRE HAUTE, Ind. A man convicted of kidnapping and raping a 16-year-old Texas girl before dousing her with gasoline and burying her alive was executed Thursday, the eighth federal inmate put to deat… [+6686 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sam Byford",
+            "title": "iFixit teardown shows just how similar the new M1 MacBooks are - The Verge",
+            "description": "iFixit has taken apart Apple’s new M1-powered MacBook Air and MacBook Pro. Here’s what’s inside.",
+            "url": "https://www.theverge.com/2020/11/20/21579016/apple-m1-macbook-air-pro-ifixit-teardown",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/KoMyh5SvAaM2J47n7GERnPvCik0=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22055164/FxeSiyYSpBwt6keG.jpeg",
+            "publishedAt": "2020-11-20T06:34:29Z",
+            "content": "The fan noise changed, but the fan didnt\r\niFixit\r\niFixit has gotten its hands on Apples new M1-powered MacBook Air and MacBook Pro, which of course is to say that its team has torn the laptops apart … [+1235 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express"
+            },
+            "author": "Grace MacRae",
+            "title": "Royal heartbreak: Archie left out as cousins gift Queen and Prince Philip anniversary card - Express",
+            "description": "ROYAL FANS were delighted to see the Queen and Prince Philip opening a sweet anniversary card from the Duke and Duchess of Cambridge's children. However, some were concerned young Archie is missing out.",
+            "url": "https://www.express.co.uk/news/royal/1362341/royal-news-archie-mountbatten-windsor-queen-prince-philip-george-charlotte-anniversary-ont",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/106/750x445/1362341.jpg",
+            "publishedAt": "2020-11-20T06:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jem Aswad",
+            "title": "Megan Thee Stallion Slams Tory Lanez With 'Shots Fired' Diss Track - Variety",
+            "description": "The details around the July incident in which rapper Tory Lanez allegedly shot Megan Thee Stallion in the feet have dribbled out slowly, first in TMZ, then over social media and videos, then surveillance video of Lanez’s arrest that night, and last month in t…",
+            "url": "https://variety.com/2020/music/news/megan-thee-stallion-tory-lanez-shots-fired-diss-track-1234836486/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2020/11/Screenshot-2020-11-12-at-12.jpg?w=1000",
+            "publishedAt": "2020-11-20T05:56:00Z",
+            "content": "The details around the July incident in which rapper Tory Lanez allegedly shot Megan Thee Stallion in the feet have dribbled out slowly, first in TMZ, then over social media and videos, then surveill… [+2573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Rafi Letzter",
+            "title": "Hidden world of bacteria and fungi discovered on Leonardo da Vinci's drawings - Livescience.com",
+            "description": "",
+            "url": "https://www.livescience.com/da-vinci-drawings-microbiome.html",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zXiQkeRTCmdzCEt9KDrQ2Z-1200-80.jpg",
+            "publishedAt": "2020-11-20T05:15:00Z",
+            "content": "Leonardo da Vinci\r\n is famous for his elaborate, nuanced artworks and advanced technological ideas. But new research has revealed another level of complexity to his drawings: a hidden world of tiny l… [+3167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "First Dog on the Moon",
+            "title": "Along with everything else, Trump has killed satire as well | First Dog on the Moon - The Guardian",
+            "description": "What is that stuff running down Rudy Giuliani’s face? Is it hair dye? Has his brain-coal been liquefied by all the lies?",
+            "url": "https://www.theguardian.com/commentisfree/2020/nov/20/along-with-everything-else-trump-has-killed-satire-as-well",
+            "urlToImage": "https://i.guim.co.uk/img/media/24506db5cf00cb5ca3e3b44de8c7e185425147de/2_0_1033_620/master/1033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=11ee155894db328a297dfb7d018982af",
+            "publishedAt": "2020-11-20T04:42:21Z",
+            "content": "What is that stuff running down Rudy Giulianis face? Is it hair dye? Has his brain-coal been liquefied by all the lies?"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CinemaBlend"
+            },
+            "author": "Mick Joest",
+            "title": "Why Grey's Anatomy Fans Are Actually Rooting For Meredith To Code After Latest McDreamy Episode - CinemaBlend",
+            "description": "Grey's Anatomy fans are actually fine with Meredith coding these days.",
+            "url": "https://www.cinemablend.com/television/2559058/why-greys-anatomy-fans-are-actually-rooting-for-meredith-to-code-after-latest-mcdreamy-episode",
+            "urlToImage": "https://img.cinemablend.com/quill/8/8/7/d/0/9/887d099cdc92646217bc6730cd45621b0fcdac6a.jpg",
+            "publishedAt": "2020-11-20T04:27:00Z",
+            "content": "Warning! The following contains spoilers for the Grey's Anatomy episode \"My Happy Ending.\" Read at your own risk!\r\nMeredith Grey is in a fight for her life against COVID-19, and it seems like that's … [+2793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitco NEWS"
+            },
+            "author": "http://www.facebook.com/kitconews",
+            "title": "Synthetic, ultra-hard diamond made at room temperature - Kitco NEWS",
+            "description": "",
+            "url": "https://www.kitco.com/news/2020-11-19/Synthetic-ultra-hard-diamond-made-at-room-temperature.html",
+            "urlToImage": "https://www.kitco.com/news/2020-11-19/images/diamond 44.png",
+            "publishedAt": "2020-11-20T04:16:00Z",
+            "content": "Researchers only relied on high pressure and not high temperatures to manufacture a synthetic diamond. \r\nThe team behind the achievement are researchers at The Australian National University (ANU) an… [+1418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Roni Caryn Rabin, Karen Zraick, Michael D. Shear, Michael Gold, Niraj Chokshi",
+            "title": "As the U.S. nears the 200,000 daily case mark, Americans are urged to avoid Thanksgiving travel. - The New York Times",
+            "description": "",
+            "url": "https://www.nytimes.com/2020/11/19/world/as-the-us-nears-the-200000-daily-case-mark-americans-are-urged-to-avoid-thanksgiving-travel.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/11/19/us/politics/19VIRUS-BRIEFING-CDC1/19VIRUS-BRIEFING-CDC1-facebookJumbo.jpg",
+            "publishedAt": "2020-11-20T04:07:30Z",
+            "content": "The tragedy that could happen is one of your family members, from coming together in a family gathering, could wind up hospitalized and severely ill and could die. We dont want to see that happen, Dr… [+2038 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "After Klay Thompson's season-ending injury, the Warriors are breaking the bank to remain competitive - CBS Sports",
+            "description": "Golden State has acquired Kelly Oubre Jr., who could cost north of $80 million for one season with tax penalties",
+            "url": "https://www.cbssports.com/nba/news/after-klay-thompsons-season-ending-injury-the-warriors-are-breaking-the-bank-to-remain-competitive/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/03/04/62382b64-8da3-4f29-b54c-aa2e93dff929/thumbnail/1200x675/c48f438e54bdf3152a91fcdedd462a41/klay-thompson.jpg",
+            "publishedAt": "2020-11-20T04:00:00Z",
+            "content": "What was supposed to be a night full of possibilities for the Golden State Warriors turned out to be a disaster. Armed with the No. 2 overall pick in Wednesday's draft and all the options that came w… [+3863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TribLIVE"
+            },
+            "author": "Samson X Horne",
+            "title": "Vatican reportedly launching probe after Pope Francis' Instagram account 'likes' racy photo - TribLIVE",
+            "description": "“At least I’m going to heaven.” That was the quip from bikini model Natalia Garibotto after the official Instagram account of Pope Francis was one of 100,000 to “like” a racy photo of the half-clothed Brazilian. According to the Catholic News Agency, the phot…",
+            "url": "https://triblive.com/news/world/vatican-reportedly-launching-probe-after-pope-francis-instagram-account-likes-racy-photo/",
+            "urlToImage": "https://triblive.com/wp-content/uploads/2020/11/3253941_web1_3231914-5945ea0746944cdcafbb664f171e5432.jpg",
+            "publishedAt": "2020-11-20T02:17:26Z",
+            "content": "Our commenting has been temporarily disabled.\r\nYou are solely responsible for your comments and by using TribLive.com you agree to our\r\nTerms of Service.\r\nWe moderate comments. Our goal is to provide… [+1733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Will Sommer",
+            "title": "Here's How Hugo Chavez, Dead Since 2013, Became Responsible for Trump's Election Loss - The Daily Beast",
+            "description": "You probably guessed it from the headline: It’s truly nuts.",
+            "url": "https://www.thedailybeast.com/heres-how-hugo-chavez-dead-since-2013-became-responsible-for-trumps-election-loss",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1605835902/201120-Sommer-Chavez-tease_wa815f",
+            "publishedAt": "2020-11-20T01:47:00Z",
+            "content": "The Trump campaign presented the public with a cornucopia of bogus new election fraud claims on Thursday, including one that seemed to have its roots in a 2016 conspiracy involving perpetual GOP boog… [+5839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Fall On California Curfew, Coronavirus Restrictions; Workday Earnings Top - Investor's Business Daily",
+            "description": "Dow Jones futures fell amid a new California curfew and other coronavirus restrictions as Covid cases soar. Workday fell late on earnings.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-california-curfew-coronavirus-restrictions/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/05/Stock-coronavirus-12-adobe.jpg",
+            "publishedAt": "2020-11-20T01:46:00Z",
+            "content": "Dow Jones futures fell late Thursday, along with S&amp;P 500 futures as a California curfew and other fresh coronavirus restrictions worry investors as Covid cases hit a new daily record in the U.S. … [+7609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "By Rachel Mcgrath For Dailymail.com",
+            "title": "Mindy Kaling reveals advice her mom gave her before she died of pancreatic cancer in 2012 in new PSA - Daily Mail",
+            "description": "'Before she died, I asked her to give me as much advice as she could. The most important thing she told me was to always be my own best friend,' the actress, 41, said.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-8968593/Mindy-Kaling-reveals-advice-mom-gave-died-pancreatic-cancer-2012-new-PSA.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/20/01/35895574-0-image-a-30_1605835653680.jpg",
+            "publishedAt": "2020-11-20T01:44:00Z",
+            "content": "She lost her mom Swati to pancreatic cancer in 2012.\r\nAnd on World Pancreatic Cancer Day Thursday, Mindy Kaling paid tribute to her mother in a new PSA to promote awareness of the disease.\r\n'Before s… [+2981 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sara Sidner, CNN",
+            "title": "This young ER doctor had to tell Covid-19 patients when it was time to say goodbye to their families. Then the virus knocked him down - CNN",
+            "description": "ER doctor David Burkard was 28, fit, healthy and knew how to take precautions against coronavirus. But when he became infected, he soon found himself unable to breathe, isolated and afraid in the Covid ward.",
+            "url": "https://www.cnn.com/2020/11/19/health/er-doctor-david-burkard-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201119182452-david-burkard-covid-super-tease.jpeg",
+            "publishedAt": "2020-11-20T01:26:00Z",
+            "content": "Grand Rapids, Michigan (CNN)When coronavirus first hit in March, Dr. David Burkard found himself having some of the toughest conversations of his life. \r\nHe had to let patients know when it was time … [+4462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Reuters",
+            "title": "US to shut down famed huge Arecibo space telescope in Puerto Rico jungle - The Guardian",
+            "description": "The observatory has played a key part in space exploration – and a few movies – but two accidents have rendered the 305m-wide instrument unsafe",
+            "url": "https://www.theguardian.com/science/2020/nov/20/us-to-shut-down-famed-huge-arecibo-space-telescope-in-puerto-rico-jungle",
+            "urlToImage": "https://i.guim.co.uk/img/media/28932edc18067f34baf169b3cb375a3510adaeb0/0_0_5464_3278/master/5464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b9318300986e24eaed6004c1dca4917",
+            "publishedAt": "2020-11-20T01:16:00Z",
+            "content": "A huge US space telescope nestled deep in the Puerto Rican jungle will be shut down after suffering two destructive mishaps in recent months, ending 57 years of astronomical discoveries.\r\nOperations … [+2333 chars]"
+        }
+    ]
+}
