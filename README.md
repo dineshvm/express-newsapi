@@ -39,5 +39,5 @@ npm i
 ```sh
 npm start
 ```
-Open your browser and go to http://localhost:8090 .App must be up and running
+Open your browser and check http://localhost:8090
 
